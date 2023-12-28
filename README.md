@@ -17,7 +17,7 @@ We will upload the codes and implementation instructions once our research paper
 Please watch the videos on youtube with high resolution.
 Random test on DID dataset.
 
-1- Video numbers: 133
+1- Video number: 133
 https://youtu.be/jkj_B6_WMe0
 
 2- Video number: 202
@@ -25,7 +25,6 @@ https://youtu.be/G5V9KG0jDjY
 
 3- Video number: 327
 https://youtu.be/DKp1cXQ40Sc
-
 
 4- Video number: 401
 https://youtu.be/dHyS-7d_Ang
