@@ -7,8 +7,8 @@
 
 # Lowlight Image Enhancement 
 
-**We are happy to announce our paper has been accepted in "Journal of Digital Signal Processing". We are uplpading the code and implementation instruction Soon.
-** 
+**We are happy to announce our paper has been accepted in "Journal of Digital Signal Processing". We will be uploading the code and implementation instructions soon.**
+
 
 ## Pipeline
 
