@@ -5,7 +5,7 @@
 
 
 
-# Lowlight Image Enhancement 
+# Illuminating the night: A light source-aware and exposure-balanced low-light enhancement approach for real nighttime scenes
 
 **We are happy to announce our paper has been accepted in "Journal of Digital Signal Processing". We will be uploading the code and implementation instructions soon.**
 
