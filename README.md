@@ -7,9 +7,8 @@
 
 # Lowlight Image Enhancement 
 
-We will upload the codes and implementation instructions once our research paper has been accepted.
-
- 
+**We are happy to announce our paper has been accepted in "Journal of Digital Signal Processing". We are uplpading the code and implementation instruction Soon.
+** 
 
 ## Pipeline
 
@@ -41,6 +40,7 @@ For support, email 20110720115@fudan.edu.cn
 
 
 ## Citation
+**M. Mahdizadeh**, **S. Chen**, and **P. Ye**, _"Illuminating the night: A light source-aware and exposure-balanced low-light enhancement approach for real nighttime scenes,"_ **Digital Signal Processing**, vol. 159, p. 104999, 2025. doi: [10.1016/j.dsp.2025.104999](https://doi.org/10.1016/j.dsp.2025.104999). [Online]. Available: [https://www.sciencedirect.com/science/article/pii/S1051200425000211](https://www.sciencedirect.com/science/article/pii/S1051200425000211)
 
 
 
